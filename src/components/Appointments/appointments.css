@@ -1,0 +1,8 @@
+.appointments{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: auto;
+    background-color: #FFE69A;
+}

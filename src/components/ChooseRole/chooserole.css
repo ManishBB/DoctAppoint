@@ -1,0 +1,18 @@
+.chooserole{
+    background-color: #E9D5DA;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.buttonsDiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+button{
+    margin: 20px;
+}
